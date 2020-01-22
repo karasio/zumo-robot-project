@@ -1,6 +1,6 @@
 # zumo-robot-project
 
-in this project our group programmed a Cypress PSoC robot with three different programs
+in this project our group programmed a Zumo robot with three different programs
 
 One to follow a line according to light sensor data,
 One to solve a maze and
